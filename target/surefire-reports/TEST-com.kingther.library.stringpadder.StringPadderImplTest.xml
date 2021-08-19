@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.kingther.library.stringpadder.StringPadderImplTest" time="0.402" tests="8" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.kingther.library.stringpadder.StringPadderImplTest" time="0.215" tests="8" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="ZA"/>
     <property name="sun.boot.library.path" value="/home/abel/jdk-11/lib"/>
-    <property name="sun.java.command" value="/home/abel/git/vaadin-production/maven-jars/demolibrary/target/surefire/surefirebooter7581039451372714478.jar /home/abel/git/vaadin-production/maven-jars/demolibrary/target/surefire 2021-08-19T09-02-18_958-jvmRun1 surefire11170393792002420209tmp surefire_0673104697415459555tmp"/>
+    <property name="sun.java.command" value="/home/abel/git/vaadin-production/maven-jars/demolibrary/target/surefire/surefirebooter4341681698693535069.jar /home/abel/git/vaadin-production/maven-jars/demolibrary/target/surefire 2021-08-19T09-26-54_639-jvmRun1 surefire11368147383155282802tmp surefire_09840425461716634984tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/abel/git/vaadin-production/maven-jars/demolibrary/target/test-classes:/home/abel/git/vaadin-production/maven-jars/demolibrary/target/classes:/home/abel/.m2/repository/org/junit/jupiter/junit-jupiter/5.7.1/junit-jupiter-5.7.1.jar:/home/abel/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.7.1/junit-jupiter-api-5.7.1.jar:/home/abel/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/home/abel/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/abel/.m2/repository/org/junit/platform/junit-platform-commons/1.7.1/junit-platform-commons-1.7.1.jar:/home/abel/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.7.1/junit-jupiter-params-5.7.1.jar:/home/abel/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar:/home/abel/.m2/repository/org/junit/platform/junit-platform-engine/1.7.1/junit-platform-engine-1.7.1.jar:/home/abel/.m2/repository/org/assertj/assertj-core/3.19.0/assertj-core-3.19.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,7 +32,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/abel/git/vaadin-production/maven-jars/demolibrary/target/surefire/surefirebooter7581039451372714478.jar"/>
+    <property name="surefire.real.class.path" value="/home/abel/git/vaadin-production/maven-jars/demolibrary/target/surefire/surefirebooter4341681698693535069.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.7+8-LTS"/>
     <property name="user.name" value="abel"/>
@@ -58,12 +58,12 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="padLeftWithZeros" classname="com.kingther.library.stringpadder.StringPadderImplTest" time="0.359"/>
+  <testcase name="padLeftWithZeros" classname="com.kingther.library.stringpadder.StringPadderImplTest" time="0.183"/>
   <testcase name="padRightInvalidTotalLength" classname="com.kingther.library.stringpadder.StringPadderImplTest" time="0.001"/>
-  <testcase name="padLeftWithZerosInvalidTotalLength" classname="com.kingther.library.stringpadder.StringPadderImplTest" time="0.001"/>
-  <testcase name="padRightWithZerosInvalidTotalLength" classname="com.kingther.library.stringpadder.StringPadderImplTest" time="0"/>
-  <testcase name="padLeft" classname="com.kingther.library.stringpadder.StringPadderImplTest" time="0"/>
+  <testcase name="padLeftWithZerosInvalidTotalLength" classname="com.kingther.library.stringpadder.StringPadderImplTest" time="0"/>
+  <testcase name="padRightWithZerosInvalidTotalLength" classname="com.kingther.library.stringpadder.StringPadderImplTest" time="0.001"/>
+  <testcase name="padLeft" classname="com.kingther.library.stringpadder.StringPadderImplTest" time="0.002"/>
   <testcase name="padLeftWithInvalidTotalLength" classname="com.kingther.library.stringpadder.StringPadderImplTest" time="0.001"/>
-  <testcase name="padRightWithZeros" classname="com.kingther.library.stringpadder.StringPadderImplTest" time="0"/>
+  <testcase name="padRightWithZeros" classname="com.kingther.library.stringpadder.StringPadderImplTest" time="0.001"/>
   <testcase name="padRight" classname="com.kingther.library.stringpadder.StringPadderImplTest" time="0.001"/>
 </testsuite>
