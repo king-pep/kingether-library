@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="io.github.kingpep.stringpadder.urlshortener.UrlShortenerTest" time="0.132" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/abel/git/vaadin-production/maven-jars/demolibrary/target/test-classes:/home/abel/git/vaadin-production/maven-jars/demolibrary/target/classes:/home/abel/.m2/repository/org/junit/jupiter/junit-jupiter/5.7.1/junit-jupiter-5.7.1.jar:/home/abel/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.7.1/junit-jupiter-api-5.7.1.jar:/home/abel/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/home/abel/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/abel/.m2/repository/org/junit/platform/junit-platform-commons/1.7.1/junit-platform-commons-1.7.1.jar:/home/abel/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.7.1/junit-jupiter-params-5.7.1.jar:/home/abel/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar:/home/abel/.m2/repository/org/junit/platform/junit-platform-engine/1.7.1/junit-platform-engine-1.7.1.jar:/home/abel/.m2/repository/org/assertj/assertj-core/3.19.0/assertj-core-3.19.0.jar:/home/abel/.m2/repository/commons-validator/commons-validator/1.7/commons-validator-1.7.jar:/home/abel/.m2/repository/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar:/home/abel/.m2/repository/commons-digester/commons-digester/2.1/commons-digester-2.1.jar:/home/abel/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/abel/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="ZA"/>
+    <property name="sun.boot.library.path" value="/home/abel/jdk-11/lib"/>
+    <property name="sun.java.command" value="/home/abel/git/vaadin-production/maven-jars/demolibrary/target/surefire/surefirebooter17236531539997002582.jar /home/abel/git/vaadin-production/maven-jars/demolibrary/target/surefire 2021-08-21T08-05-18_926-jvmRun1 surefire15827919590943228992tmp surefire_012233777457037539455tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/home/abel/git/vaadin-production/maven-jars/demolibrary/target/test-classes:/home/abel/git/vaadin-production/maven-jars/demolibrary/target/classes:/home/abel/.m2/repository/org/junit/jupiter/junit-jupiter/5.7.1/junit-jupiter-5.7.1.jar:/home/abel/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.7.1/junit-jupiter-api-5.7.1.jar:/home/abel/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/home/abel/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/abel/.m2/repository/org/junit/platform/junit-platform-commons/1.7.1/junit-platform-commons-1.7.1.jar:/home/abel/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.7.1/junit-jupiter-params-5.7.1.jar:/home/abel/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar:/home/abel/.m2/repository/org/junit/platform/junit-platform-engine/1.7.1/junit-platform-engine-1.7.1.jar:/home/abel/.m2/repository/org/assertj/assertj-core/3.19.0/assertj-core-3.19.0.jar:/home/abel/.m2/repository/commons-validator/commons-validator/1.7/commons-validator-1.7.jar:/home/abel/.m2/repository/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar:/home/abel/.m2/repository/commons-digester/commons-digester/2.1/commons-digester-2.1.jar:/home/abel/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/abel/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/abel"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-04-14"/>
+    <property name="java.home" value="/home/abel/jdk-11"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/abel/git/vaadin-production/maven-jars/demolibrary"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/home/abel/git/vaadin-production/maven-jars/demolibrary/target/surefire/surefirebooter17236531539997002582.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.7+8-LTS"/>
+    <property name="user.name" value="abel"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="5.4.0-81-generic"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="/home/abel/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="11.0.7"/>
+    <property name="user.dir" value="/home/abel/git/vaadin-production/maven-jars/demolibrary"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.7+8-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="decode" classname="io.github.kingpep.stringpadder.urlshortener.UrlShortenerTest" time="0.099"/>
+  <testcase name="encode" classname="io.github.kingpep.stringpadder.urlshortener.UrlShortenerTest" time="0.001"/>
+</testsuite>

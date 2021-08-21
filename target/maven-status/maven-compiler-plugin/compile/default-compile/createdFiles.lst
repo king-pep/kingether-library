@@ -1,4 +1,6 @@
-com/kingther/library/App.class
-com/kingther/library/stringpadder/StringPadder.class
-com/kingther/library/stringpadder/StringPadderImpl.class
-com/kingther/library/stringpadder/StringPadderFactory.class
+io/github/kingpep/stringpadder/StringPadder.class
+io/github/kingpep/stringpadder/StringPadderImpl.class
+io/github/kingpep/stringpadder/StringPadderFactory.class
+io/github/kingpep/urlshortener/UrlShortenerValidator.class
+io/github/kingpep/App.class
+io/github/kingpep/urlshortener/Url.class

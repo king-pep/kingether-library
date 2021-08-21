@@ -1,2 +1,3 @@
-/home/abel/git/vaadin-production/maven-jars/demolibrary/src/test/java/com/kingther/library/AppTest.java
-/home/abel/git/vaadin-production/maven-jars/demolibrary/src/test/java/com/kingther/library/stringpadder/StringPadderImplTest.java
+/home/abel/git/vaadin-production/maven-jars/demolibrary/src/test/java/io/github/kingpep/AppTest.java
+/home/abel/git/vaadin-production/maven-jars/demolibrary/src/test/java/io/github/kingpep/stringpadder/urlshortener/UrlShortenerTest.java
+/home/abel/git/vaadin-production/maven-jars/demolibrary/src/test/java/io/github/kingpep/stringpadder/StringPadderImplTest.java

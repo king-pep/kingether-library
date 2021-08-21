@@ -1,2 +1,3 @@
-com/kingther/library/stringpadder/StringPadderImplTest.class
-com/kingther/library/AppTest.class
+io/github/kingpep/stringpadder/StringPadderImplTest.class
+io/github/kingpep/stringpadder/urlshortener/UrlShortenerTest.class
+io/github/kingpep/AppTest.class
