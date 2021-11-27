@@ -18,13 +18,13 @@
 -docencoding
 'UTF-8'
 -doctitle
-'demolibrary 2.0.0 API'
+'kingetherlibrary 2.0.1 API'
 -linkoffline
 'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/kingether/IdeaProjects/kingether-library/target/javadoc-bundle-options'
 -use
 -version
 -windowtitle
-'demolibrary 2.0.0 API'
+'kingetherlibrary 2.0.1 API'
 io.github.kingpep.security
 io.github.kingpep.security
 io.github.kingpep.stringpadder
@@ -39,25 +39,25 @@ io.github.kingpep.urlshortener
 /home/kingether/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar = 1632291217292
 /home/kingether/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar = 1632291182124
 /home/kingether/IdeaProjects/kingether-library/src/main/java = 1637999253755
-/home/kingether/IdeaProjects/kingether-library/target/generated-sources/annotations = 1638007535407
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/type-search-index.js = 1638007542779
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/package-search-index.zip = 1638007542779
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/overview-tree.html = 1638007542647
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/package-search-index.js = 1638007542767
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/allclasses-index.html = 1638007542839
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/search.js = 1638007543043
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/index-all.html = 1638007542795
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/stylesheet.css = 1638007543027
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/type-search-index.zip = 1638007542783
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/script.js = 1638007543027
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/help-doc.html = 1638007542991
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/overview-summary.html = 1638007542963
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/member-search-index.js = 1638007542783
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/constant-values.html = 1638007542395
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/deprecated-list.html = 1638007542907
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/member-search-index.zip = 1638007542787
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/allclasses.html = 1638007542919
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/allpackages-index.html = 1638007542863
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/serialized-form.html = 1638007542431
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/element-list = 1638007542255
-/home/kingether/IdeaProjects/kingether-library/target/apidocs/index.html = 1638007542955
+/home/kingether/IdeaProjects/kingether-library/target/generated-sources/annotations = 1638030710757
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/type-search-index.js = 1638030719964
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/package-search-index.zip = 1638030719964
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/overview-tree.html = 1638030719924
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/package-search-index.js = 1638030719960
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/allclasses-index.html = 1638030719988
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/search.js = 1638030720048
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/index-all.html = 1638030719968
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/stylesheet.css = 1638030720044
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/type-search-index.zip = 1638030719964
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/script.js = 1638030720044
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/help-doc.html = 1638030720036
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/overview-summary.html = 1638030720028
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/member-search-index.js = 1638030719964
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/constant-values.html = 1638030719788
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/deprecated-list.html = 1638030720008
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/member-search-index.zip = 1638030719964
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/allclasses.html = 1638030720016
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/allpackages-index.html = 1638030719996
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/serialized-form.html = 1638030719804
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/element-list = 1638030719732
+/home/kingether/IdeaProjects/kingether-library/target/apidocs/index.html = 1638030720028

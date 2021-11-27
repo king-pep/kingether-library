@@ -6,9 +6,9 @@
 
     <groupId>io.github.king-pep</groupId>
     <artifactId>kingetherlibrary</artifactId>
-    <version>2.0.0</version>
+    <version>2.0.1</version>
 
-    <name>demolibrary</name>
+    <name>kingetherlibrary</name>
     <!-- FIXME change it to the project's website -->
     <description>
         This project is a library for padding Strings in Java, url shortener
