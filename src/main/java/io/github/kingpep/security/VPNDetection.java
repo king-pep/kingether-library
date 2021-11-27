@@ -102,6 +102,7 @@ public final class VPNDetection {
      * @throws MalformedURLException
      * @throws IOException
      */
+
     public String query(String url, int timeout, String userAgent)
             throws MalformedURLException, IOException {
         StringBuilder response = new StringBuilder();
